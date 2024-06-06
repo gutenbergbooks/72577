@@ -1,7 +1,3 @@
-
-
-
-
                                  BAMBI
                          _A Life in the Woods_
 
@@ -2727,7 +2723,7 @@ swiftly through the snow, galloping ahead of the din.
 “Run,” he called when he saw Bambi. “Don’t stand there if you can run!”
 He was gone in a flash and his headlong flight carried Bambi along with
 it. Bambi was hardly aware that he had begun to run again and only after
-an interval did he say, “Good-by, Gobo,” But he was already too far
+an interval did he say, “Good-by, Gobo.” But he was already too far
 away. Gobo could no longer hear him.
 
 [Illustration: _Bambi was hardly aware that he had begun to run again._]
@@ -5496,3 +5492,4 @@ ratification of this enthusiasm.
 
     Punctuation has been maintained except where obvious printer
     errors occur.
+
